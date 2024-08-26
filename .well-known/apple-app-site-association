@@ -5,7 +5,9 @@
                 "appIDs": [
                     "F6SZM59HP6.ru.spider.madyar"
                 ],
-                "paths": ["/bonus/"]        
+                "paths": [
+                    "*"
+                ]        
             }
         ]
     }
